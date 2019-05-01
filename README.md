@@ -2,9 +2,9 @@
 
 <img src="https://github.com/utilForever/RobotChess/blob/master/Medias/Logo.png" width=256 height=256 />
 
-[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/RosettaStone/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/RobotChess/blob/master/LICENSE)
 
-RobotChess is Auto Chess simulator using C++ with some reinforcement learning. The code is built on C++17 and can be compiled with commonly available compilers such as g++, clang++, or Microsoft Visual Studio. RosettaStone currently supports macOS (10.14 or later), Ubuntu (18.04 or later), Windows (Visual Studio 2017 or later), and Windows Subsystem for Linux (WSL). Other untested platforms that support C++17 also should be able to build RosettaStone.
+RobotChess is Auto Chess simulator using C++ with some reinforcement learning. The code is built on C++17 and can be compiled with commonly available compilers such as g++, clang++, or Microsoft Visual Studio. RobotChess currently supports macOS (10.14 or later), Ubuntu (18.04 or later), Windows (Visual Studio 2017 or later), and Windows Subsystem for Linux (WSL). Other untested platforms that support C++17 also should be able to build RobotChess.
 
 ## Key Features
 
@@ -55,7 +55,7 @@ You can contact me via e-mail (utilForever at gmail.com). I am always happy to a
 
 ## Sponsors
 
-[![CppDepend](https://github.com/utilForever/RosettaStone/blob/master/Medias/CppDepend.png)](http://www.cppdepend.com)
+[![CppDepend](https://github.com/utilForever/RobotChess/blob/master/Medias/CppDepend.png)](http://www.cppdepend.com)
 
 ## License
 
